@@ -33,6 +33,7 @@ loc.my_location()
 # First instantiation of the class Location - copy pasta from assignment
 loc1 = Location("Tomas", "Portugal")
 loc1.my_location()
+# another instance
 your_loc = Location("Your_Name", "Your_Country")
 
 # more examples, more of the same ... not copy pasta
